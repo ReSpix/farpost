@@ -9954,16 +9954,17 @@ ZH:function ZH(a){this.a=a},
 aw6(){return new A.hp(new A.a7f(),A.y(t.K,t.Qu))},
 tL:function tL(a,b){this.a=a
 this.b=b},
-lW:function lW(a,b,c,d,e,f,g,h,i){var _=this
+lW:function lW(a,b,c,d,e,f,g,h,i,j){var _=this
 _.ay=a
-_.cy=b
-_.db=c
-_.fr=d
-_.id=e
-_.k1=f
-_.k4=g
-_.p4=h
-_.a=i},
+_.CW=b
+_.cy=c
+_.db=d
+_.fr=e
+_.id=f
+_.k1=g
+_.k4=h
+_.p4=i
+_.a=j},
 a7f:function a7f(){},
 a7j:function a7j(){},
 BU:function BU(a){var _=this
@@ -44058,9 +44059,9 @@ o=o.fr
 s=o
 if(s==null)s=B.hn
 o=p.ay
-if(o!=null)return new A.pe(q,q,q,q,q,q,q,q,o,q,q,q,q,q,r.gIo(),"",q,B.ED,s,p.id,r.gIj(),q,q,r.a.k4,!1,!1,!1,!1,r.gI4(),!1,q,q,q,!1,new A.kk(r,t.bT))
+if(o!=null)return new A.pe(q,q,q,q,q,q,q,q,o,q,q,q,q,q,r.gIo(),p.CW,q,B.ED,s,p.id,r.gIj(),q,q,r.a.k4,!1,!1,!1,!1,r.gI4(),!1,q,q,q,!1,new A.kk(r,t.bT))
 null.toString
-return new A.pe(null,null,null,new A.akk(),null,null,null,null,null,null,null,null,null,null,r.gIo(),"",null,B.ED,s,p.id,r.gIj(),null,null,r.a.k4,!1,!1,!1,!1,r.gI4(),!1,null,null,null,!1,new A.kk(r,t.bT))},
+return new A.pe(null,null,null,new A.akk(),null,null,null,null,null,null,null,null,null,null,r.gIo(),p.CW,null,B.ED,s,p.id,r.gIj(),null,null,r.a.k4,!1,!1,!1,!1,r.gI4(),!1,null,null,null,!1,new A.kk(r,t.bT))},
 E(a){var s,r=null,q=A.qV(!1,!1,this.Wy(a),r,r,r,r,!0,r,r,new A.akl(),r,r,r)
 this.a.toString
 s=this.d
@@ -74925,7 +74926,7 @@ o=$.az
 o=A.ash(B.T,(o==null?$.az=B.A:o).bv(0,m,p).B8(),!0)
 n=$.az
 p=(n==null?$.az=B.A:n).bv(0,m,p).qJ()?B.EJ:B.a4K
-return new A.lW($.aCN(),q,o,p,s,B.Q7,r,!1,m)},
+return new A.lW($.aCN(),"Farpost \u0430\u0434\u0430\u043f\u0442\u0430\u0446\u0438\u044f",q,o,p,s,B.Q7,r,!1,m)},
 $S:423}
 A.ls.prototype={
 em(){var s=this.b,r=A.ak(s).i("aH<1,aE<j,@>>")
