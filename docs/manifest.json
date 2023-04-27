@@ -1,6 +1,6 @@
 {
-    "name": "farpost_onboarding",
-    "short_name": "farpost_onboarding",
+    "name": "Farpost адаптация",
+    "short_name": "Адаптация",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
